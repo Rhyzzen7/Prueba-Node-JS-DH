@@ -6,4 +6,5 @@ const dividir = require ("./dividir");
 console.log(sumar(500,100));
 console.log(restar(100,10));
 console.log(multiplicar(12,10));
-console.log(dividir(0,19));
+console.log(dividir(25,4));
+console.log(dividir(30,0));
